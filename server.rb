@@ -1,5 +1,5 @@
 require 'sinatra'
 
 get '/' do
-  send_file File.join(settings.public_folder, 'hello.html')
+  send_file File.join(settings.public_folder, 'LEL_Portfolio.html')
 end
