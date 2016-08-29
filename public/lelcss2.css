@@ -1,0 +1,163 @@
+* {
+  font-family: 'Questrial', sans-serif;
+}
+.container {
+  width: 100%;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+.world {
+  color: #ffff66;
+  font-size: 3.6em;
+  padding-left: 10%;
+  padding-top: 12%;
+}
+
+a.redbutton1 {
+  border-radius: 50%;
+	width: 100px;
+	height: 100px;
+  background-color: #66ff66;
+  border: 3px solid #898a8a;
+  -webkit-box-shadow:
+         0px 3px rgba(128,128,128,1), /* gradient effects */
+         0px 4px rgba(118,118,118,1),
+         0px 5px rgba(108,108,108,1),
+         0px 6px rgba(98,98,98,1),
+         0px 7px rgba(88,88,88,1),
+         0px 8px rgba(78,78,78,1),
+         0px 14px 6px -1px rgba(128,128,128,1); /* shadow */
+}
+a:active.redbutton1 {
+   -webkit-transform: translate(0, 5px);
+}
+
+
+.redbutton1 h2 {
+  color: #ffffff;
+}
+
+a:hover {
+  color: #ff9966
+}
+
+.hello1 {
+color: #ff6666;
+font-size: 3em;
+}
+
+.facts {
+  color: #666666;
+  font-size: 1.35em;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 2%;
+  text-align: center;
+  background-color: #f3f5f8;
+  height: 550px;
+}
+.c-icon {
+  color: #666666;
+  padding: .25em;
+  padding-top: .5em;
+}
+
+
+.quote {
+  color: #ff9966;
+  font-size: 2.25em;
+  padding-top: 5%;
+  padding-bottom: 10%;
+  height: 200px;
+}
+.skills {
+  margin-left: 25%;
+  height:210px;
+
+}
+.circle {
+	border-radius: 50%;
+	width: 125px;
+	height: 125px;
+  margin-top: 5%;
+  background-color: #ffff66;
+}
+.s-icon {
+  color: #666666;
+  padding-top: 2.5em;
+}
+
+.showtell {
+  border-top: 1px solid #ffff66;
+  font-size: 22px;
+}
+.showtell h2 {
+  color: #ff6666;
+  font-size: 1.75em;
+}
+
+.col-md-3 h2{
+  color: #666666;
+  font-size: 20px;
+  padding-top: 1em;
+}
+
+.projects {
+    height:250px;
+    background: url('https://s3.amazonaws.com/portfoliolel/starcluster.jpeg');
+    color: #ffff66;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+.earth1 {
+  background: url('https://s3.amazonaws.com/portfoliolel/Free+HD+Stock+Video+Footage+-+Outer+Space+Earth+and+Sun.mp4');
+  background: url('https://s3.amazonaws.com/portfoliolel/the-solar-system-planet-earth-saturn-jupiter-space-1920x1200-wallpaper349008.jpg') no-repeat 50% 50% fixed;
+background-size: cover;
+height: 100vh;
+-moz-background-size: cover;
+-o-background-size: cover;
+-webkit-background-size: cover:
+ }
+
+
+
+.favorite {
+  font-size: 3em;
+  text-align: left;
+  padding-bottom: 50px;
+  padding-left: 5%;
+  padding-top: 50px;
+  color: #ff6666;
+}
+.main {
+  margin: 0 auto -60px;
+
+}
+.main .img-responsive {
+  margin-bottom: 30px;
+  width: 293px;
+  height: 193px;
+}
+.goodbye {
+  color: #ff9966;
+  font-size: 2.25em;
+  padding-top: 5%;
+}
+
+.g-icon {
+  color: #ff6666;
+}
+
+.contact {
+    color: #666666;
+    font-size: 1.5em;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 2%;
+    text-align: center;
+    background-color: #f3f5f8;
+    /*opacity: .7;*/
+    height: 300px;
+}
